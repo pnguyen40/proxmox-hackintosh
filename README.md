@@ -1,4 +1,4 @@
-### If using GRUB bios
+### If using GRUB bios 
 
 #### /etc/default/grub
 ```
